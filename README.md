@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I’m Trung aka Francis 👋
 
-<!--
-**trungdegea/trungdegea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a web developer who strives to build high-quality web experiences through clean, maintainable code and thoughtful design. I’m currently working full-time as a Frontend Software Engineer.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- **Languages & Frameworks:** JavaScript (ES6+), TypeScript, React, Next.js  
+- **Styling & Design:** CSS3, SASS (SCSS), Less, Tailwind CSS, Figma 
+- **Backend & Tools:** Node.js, Nest.js, Firebase, Supabase, MongoDB, Git  
+- **Testing & QA:** Jest  
+
+---
+
+## 🚀 Featured Projects
+
+- Coming Soon ^^
+
+---
+
+## 📫 Let’s Connect
+
+| 🌐 Website | 💼 LinkedIn | 🐦 Facebook | 🐙 GitHub | 📧 Email |
+| :----------: | :--------: | :--------: | :-------: | :------: |
+| [trungdegea.tech](https://www.trungdegea.tech/) | [in/trung-nguyen](https://www.linkedin.com/in/trung-nguyen-207ab3233/) | [@Trung-de-Gea](https://www.facebook.com/trungdegea.coyg/) | [@trungdegea](https://github.com/trungdegea) | [trungnmd3003@gmail.com](mailto:trungnmd3003@gmail.com) |
+
+---
+
+> *See you around!*
